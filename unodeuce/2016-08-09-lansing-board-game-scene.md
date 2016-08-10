@@ -2,7 +2,7 @@
 
 # A Tabletop Gamer's Guide to Greater Lansing
 
-The popularity of tabletop gaming&mdash;a broad term that includes everything from board and card games to role playing games&mdash;has exploded in recent years. Now, you may not think of Lansing as a mecca for gamers, but the Lansing area has been doing a fantastic job keeping pace with hobby gaming. Almost too good a job.
+The popularity of tabletop gaming&mdash;a broad term that includes everything from board and card games to roleplaying games&mdash;has exploded in recent years. Now, you may not think of Lansing as a mecca for gamers, but the Lansing area has been doing a fantastic job keeping pace with hobby gaming. Almost too good a job.
 
 Newcomers to the hobby may be intimidated by the abundance of options to choose from and newcomers to Lansing may simply not know of a good place to start for their particular niche.
 
@@ -14,19 +14,19 @@ More importantly, I've curated a list of places in Lansing where gaming addicts 
 
 ## Where to Buy
 
-When you want to find a new board game, miniatures, role playing books, or other gaming supplies, the place to go is usually a comic book store. Here are some of the Lansing area's comic shops that also have a solid selection of games:
+When you want to find a new board game, miniatures, roleplaying books, or other gaming supplies, the place to go is usually a comic book store. Here are some of the Lansing area's comic shops that also have a solid selection of games:
 
 1. **[Summit Comics and Games][3]** has a huge selection of board games. They have more space dedicated to gaming than to comics even. They also have a sort-of-but-not-really hidden back room where games can be played.
-2. **[Fortress Comics and Games][4]** sells comics and board games, but where they really shine is war gaming. If painting minis and constructing terrain to hold tiny epic battles, visit this shop.
+2. **[Fortress Comics and Games][4]** sells comics and board games, but where they really shine is wargaming. If painting minis and constructing terrain to hold tiny epic battles, visit this shop.
 3. **[Hollow Mountain Comics and Games][5]** is the newest shop, but they have an eclectic mix of board games. If you want to pick up a fun, new game that hasn't received a lot of attention, start here.
 4. **[Just 4 Fun Hobbies and Comics][6]** probably caters to the widest variety of hobbyist. They've got comics, board games, and all sorts of supplies for making terrain, painting, and making hobby trains and models.
 
 There is such a thing as a dedicated game store and Lansing has 'em. If you know you want games and nothing but, check out these friendly local game shops (FLGS):
 
-1. **[Evolution Games][7]** has big selection of pretty much everything. Whether you're looking for board games, card games, role playing, war gaming, or painting/terrain supplies, there's a good chance you can find something here.
+1. **[Evolution Games][7]** has a big selection of pretty much everything. Whether you're looking for board games, card games, roleplaying, wargaming, or painting/terrain supplies, there's a good chance you can find something here.
 2. **[AFK Games][8]**. AFK has a selection of board games, collectible card games, minis, paints, and space to play. If you want to ogle some pre-painted miniatures, you can find do that at AFK, too.
 
-Since board games have become so popular, book stores have started selling them. Both [Schuler Books][9] and [Barnes and Noble][10] have pretty good selections of the more popular (and usually beginner-friendly) hobby board games.
+Since board games have become so popular, bookstores have started selling them. Both [Schuler Books][9] and [Barnes and Noble][10] have pretty good selections of the more popular (and usually beginner-friendly) hobby board games.
 
 ![][25]
 
@@ -34,7 +34,7 @@ Since board games have become so popular, book stores have started selling them.
 
 Whether you're new to Lansing or just looking to expand your horizons, there are a number of gaming groups that are all very welcoming. For starters, practically all of the game shops have groups that meet regularly, organized and unorganized play times, tournaments, and other events.
 
-If that's not enough or not your cup of tea, there are also a number of groups on [Meetup][11] that get together at other venues to play. [Lansing Board Gamers][12] is an especially dedicated group and I've had a blast any time I've met up with them.
+If that's not enough or not your cup of tea, there are also a number of groups on [Meetup][11] that get together at other venues to play. [Lansing Board Gamers][12] is an especially dedicated group and I've had a blast anytime I've met up with them.
 
 Looking for something more low key or kid-friendly? Check out a nearby school or [library][13]. [Schuler Books][9] also hosts gaming events in their Chapbook Cafe occasionally.
 
@@ -44,7 +44,7 @@ Looking for something more low key or kid-friendly? Check out a nearby school or
 
 When you're ready to take your gaming hobby to the next level, I recommend attending a convention. These are large events where hundreds or thousands of people get together to enjoy their hobbies together. Lansing has at least three conventions ('cons' for short) where you can enjoy board games.
 
-1. **[DaveCon][14]** is Lansing's premiere board game convention and you only have to wait till September to participate. You can join someone else's game, bring your own, participate in a tournament, or even test out unpublished games by local designers!
+1. **[DaveCon][14]** is Lansing's premier board game convention and you only have to wait until September to participate. You can join someone else's game, bring your own, participate in a tournament, or even test out unpublished games by local designers!
 2. **[Capital City Comic Con][15]** is a comic book convention, but just like you can buy board games in comic shops, there's typically board gaming at comic cons. This one's on August 27, so you'll have to decide quickly about attending.
 3. **[Shuto Con][16]** is actually all about anime, but they have rooms for video and tabletop gaming nonetheless. Plus you can admire all sorts of amazing cosplay and perhaps pick up yet another hobby!
 
@@ -58,7 +58,7 @@ Other ways you fuse gaming with philanthropy in Lansing? You could join the [Ext
 
 ## Looking for More?
 
-If you have more questions, are looking for game recommendations, or just want to play or talk about games sometime, reach out to me! Find me on [Twitter][22] or [Facebook][23].
+If you have more questions, are looking for game recommendations, or just want to play or talk about games, reach out to me! Find me on [Twitter][22] or [Facebook][23].
 
 [1]: https://www.youtube.com/watch?v=wC2QJa8olUk "HeroQuest 1991 Commercial on YouTube"
 [2]: http://geekandsundry.com/author/erikgillespie/ "Gaming articles by Erik Gillespie on Geek and Sundry"
