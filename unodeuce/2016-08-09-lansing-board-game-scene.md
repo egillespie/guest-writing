@@ -2,6 +2,8 @@
 title: "A Tabletop Gamer's Guide to Greater Lansing"
 ---
 
+![][21]
+
 The popularity of tabletop gaming&mdash;a broad term that includes everything from board and card games to role playing games&mdash;has exploded in recent years. Now, you may not think of Lansing as a mecca for gamers, but the Lansing area has been doing a fantastic job keeping pace with hobby gaming. Almost too good a job.
 
 Newcomers to the hobby may be intimidated by the abundance of options to choose from and newcomers to Lansing may simply not know of a good place to start for their particular niche.
@@ -68,3 +70,4 @@ Other ways you fuse gaming with philanthropy in Lansing? You could join the [Ext
 [18]: http://community.extra-life.org/lansing "Extra Life Lansing Guild Homepage"
 [19]: http://www.sparrow.org/childrenscenter "Sparrow Hospital Children's Center Homepage"
 [20]: https://www.msufcu.org/community/events/Sparrow_Toy_Drive "Michigan State University Federal Credit Union Toy Drive Homepage"
+[21]: https://raw.githubusercontent.com/egillespie/guest-writing/master/unodeuce/schuler-game-wall.jpg "Schuler Books Game Wall"
