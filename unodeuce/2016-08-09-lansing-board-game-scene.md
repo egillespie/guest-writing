@@ -84,6 +84,6 @@ If you have more questions, are looking for game recommendations, or just want t
 [22]: https://twitter.com/eriklgillespie "Erik Gillespie on Twitter"
 [23]: https://www.facebook.com/erik.gillespie.79 "Erik Gillespie on Facebook"
 [24]: https://raw.githubusercontent.com/egillespie/guest-writing/master/unodeuce/adventure-time-cards.jpg "Adventure Time Card Game"
-[25]: https://raw.githubusercontent.com/egillespie/guest-writing/master/unodeuce/adventure-time-cards.jpg "Adventure Time Card Game"
+[25]: https://raw.githubusercontent.com/egillespie/guest-writing/master/unodeuce/carcassonne.jpg "Carcassonne Game"
 [26]: https://raw.githubusercontent.com/egillespie/guest-writing/master/unodeuce/adventure-time-cards.jpg "Adventure Time Card Game"
 [27]: https://raw.githubusercontent.com/egillespie/guest-writing/master/unodeuce/adventure-time-cards.jpg "Adventure Time Card Game"
