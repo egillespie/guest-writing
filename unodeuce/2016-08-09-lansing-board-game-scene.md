@@ -10,6 +10,8 @@ When it comes to tabletop gaming, I'm what you might call obsessed. Have been si
 
 More importantly, I've curated a list of places in Lansing where gaming addicts and newcomers alike can go to have some fun.
 
+![][24]
+
 ## Where to Buy
 
 When you want to find a new board game, miniatures, role playing books, or other gaming supplies, the place to go is usually a comic book store. Here are some of the Lansing area's comic shops that also have a solid selection of games:
@@ -26,6 +28,8 @@ There is such a thing as a dedicated game store and Lansing has 'em. If you know
 
 Since board games have become so popular, book stores have started selling them. Both [Schuler Books][9] and [Barnes and Noble][10] have pretty good selections of the more popular (and usually beginner-friendly) hobby board games.
 
+![][25]
+
 ## Looking for Group
 
 Whether you're new to Lansing or just looking to expand your horizons, there are a number of gaming groups that are all very welcoming. For starters, practically all of the game shops have groups that meet regularly, organized and unorganized play times, tournaments, and other events.
@@ -34,6 +38,8 @@ If that's not enough or not your cup of tea, there are also a number of groups o
 
 Looking for something more low key or kid-friendly? Check out a nearby school or [library][13]. [Schuler Books][9] also hosts gaming events in their Chapbook Cafe occasionally.
 
+![][26]
+
 ## Conventions
 
 When you're ready to take your gaming hobby to the next level, I recommend attending a convention. These are large events where hundreds or thousands of people get together to enjoy their hobbies together. Lansing has at least three conventions ('cons' for short) where you can enjoy board games.
@@ -41,6 +47,8 @@ When you're ready to take your gaming hobby to the next level, I recommend atten
 1. **[DaveCon][14]** is Lansing's premiere board game convention and you only have to wait till September to participate. You can join someone else's game, bring your own, participate in a tournament, or even test out unpublished games by local designers!
 2. **[Capital City Comic Con][15]** is a comic book convention, but just like you can buy board games in comic shops, there's typically board gaming at comic cons. This one's on August 27, so you'll have to decide quickly about attending.
 3. **[Shuto Con][16]** is actually all about anime, but they have rooms for video and tabletop gaming nonetheless. Plus you can admire all sorts of amazing cosplay and perhaps pick up yet another hobby!
+
+![][27]
 
 ## Where to Give
 
@@ -75,3 +83,7 @@ If you have more questions, are looking for game recommendations, or just want t
 [21]: https://raw.githubusercontent.com/egillespie/guest-writing/master/unodeuce/schuler-game-wall.jpg "Schuler Books Game Wall"
 [22]: https://twitter.com/eriklgillespie "Erik Gillespie on Twitter"
 [23]: https://www.facebook.com/erik.gillespie.79 "Erik Gillespie on Facebook"
+[24]: https://raw.githubusercontent.com/egillespie/guest-writing/master/unodeuce/adventure-time-cards.jpg "Adventure Time Card Game"
+[25]: https://raw.githubusercontent.com/egillespie/guest-writing/master/unodeuce/adventure-time-cards.jpg "Adventure Time Card Game"
+[26]: https://raw.githubusercontent.com/egillespie/guest-writing/master/unodeuce/adventure-time-cards.jpg "Adventure Time Card Game"
+[27]: https://raw.githubusercontent.com/egillespie/guest-writing/master/unodeuce/adventure-time-cards.jpg "Adventure Time Card Game"
