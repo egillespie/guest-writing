@@ -1,6 +1,6 @@
-# A Tabletop Gamer's Guide to Greater Lansing
-
 ![][21]
+
+# A Tabletop Gamer's Guide to Greater Lansing
 
 The popularity of tabletop gaming&mdash;a broad term that includes everything from board and card games to role playing games&mdash;has exploded in recent years. Now, you may not think of Lansing as a mecca for gamers, but the Lansing area has been doing a fantastic job keeping pace with hobby gaming. Almost too good a job.
 
