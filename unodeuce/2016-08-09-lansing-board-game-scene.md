@@ -50,6 +50,10 @@ If you have a heart of gold, you may also wonder about how to put your gaming ho
 
 Other ways you fuse gaming with philanthropy in Lansing? You could join the [Extra Life Lansing Guild][18] to help heal sick and injured kids. [Sparrow Hospital Children's Center][19] and [MSU Federal Credit Union][20] also organize toy drives and are happy to accept donated games!
 
+## Looking for More?
+
+If you have more questions, are looking for game recommendations, or just want to play or talk about games sometime, reach out to me! Find me on [Twitter][22] or [Facebook][23].
+
 [1]: https://www.youtube.com/watch?v=wC2QJa8olUk "HeroQuest 1991 Commercial on YouTube"
 [2]: http://geekandsundry.com/author/erikgillespie/ "Gaming articles by Erik Gillespie on Geek and Sundry"
 [3]: http://summitlansing.com/ "Summit Comics and Games Homepage"
@@ -71,3 +75,5 @@ Other ways you fuse gaming with philanthropy in Lansing? You could join the [Ext
 [19]: http://www.sparrow.org/childrenscenter "Sparrow Hospital Children's Center Homepage"
 [20]: https://www.msufcu.org/community/events/Sparrow_Toy_Drive "Michigan State University Federal Credit Union Toy Drive Homepage"
 [21]: https://raw.githubusercontent.com/egillespie/guest-writing/master/unodeuce/schuler-game-wall.jpg "Schuler Books Game Wall"
+[22]: https://twitter.com/eriklgillespie "Erik Gillespie on Twitter"
+[23]: https://www.facebook.com/erik.gillespie.79 "Erik Gillespie on Facebook"
