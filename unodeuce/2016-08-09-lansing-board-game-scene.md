@@ -1,6 +1,4 @@
----
-title: "A Tabletop Gamer's Guide to Greater Lansing"
----
+# A Tabletop Gamer's Guide to Greater Lansing
 
 ![][21]
 
