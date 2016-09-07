@@ -44,9 +44,10 @@ Looking for something more low key or kid-friendly? Check out a nearby school or
 
 When you're ready to take your gaming hobby to the next level, I recommend attending a convention. These are large events where hundreds or thousands of people get together to enjoy their hobbies together. Lansing has at least three conventions ('cons' for short) where you can enjoy board games.
 
-1. **[DaveCon][14]** is Lansing's premier board game convention and you only have to wait until September to participate. You can join someone else's game, bring your own, participate in a tournament, or even test out unpublished games by local designers!
-2. **[Capital City Comic Con][15]** is a comic book convention, but just like you can buy board games in comic shops, there's typically board gaming at comic cons. This one's on August 27, so you'll have to decide quickly about attending.
-3. **[Shuto Con][16]** is actually all about anime, but they have rooms for video and tabletop gaming nonetheless. Plus you can admire all sorts of amazing cosplay and perhaps pick up yet another hobby!
+1. **[MittenCon][28]** is one of Lansing's two conventions that are all about board gaming. It's held over President's Day weekend and goes for three days. Gaming is a pretty good way to pass the time during Michigan winters!
+2. **[DaveCon][14]** is the Lansing area's other board game-exclusive convention and you only have to wait until September to participate. You can join someone else's game, bring your own, participate in a tournament, or even test out unpublished games by local designers!
+3. **[Capital City Comic Con][15]** is a comic book convention, but just like you can buy board games in comic shops, there's typically board gaming at comic cons. This one's on August 27, so you'll have to decide quickly about attending.
+4. **[Shuto Con][16]** is actually all about anime, but they have rooms for video and tabletop gaming nonetheless. Plus you can admire all sorts of amazing cosplay and perhaps pick up yet another hobby!
 
 ![][27]
 
@@ -87,3 +88,4 @@ If you have more questions, are looking for game recommendations, or just want t
 [25]: https://raw.githubusercontent.com/egillespie/guest-writing/master/unodeuce/carcassonne.jpg "Carcassonne"
 [26]: https://raw.githubusercontent.com/egillespie/guest-writing/master/unodeuce/legendary.jpg "Legendary"
 [27]: https://raw.githubusercontent.com/egillespie/guest-writing/master/unodeuce/scrabble.jpg "Scrabble"
+[28]: https://groups.yahoo.com/neo/groups/MittenCon/info "MittenCon Group on Yahoo"
