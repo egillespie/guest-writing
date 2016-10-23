@@ -6,7 +6,7 @@ The popularity of tabletop gaming&mdash;a broad term that includes everything fr
 
 Newcomers to the hobby may be intimidated by the abundance of options to choose from and newcomers to Lansing may simply not know of a good place to start for their particular niche.
 
-When it comes to tabletop gaming, I'm what you might call obsessed. Have been since I got *[HeroQuest][1]* in the early 90s (and am still its proud owner). I've even been fortunate enough to write for [Geek &amp; Sundry][2] about board games. 
+When it comes to tabletop gaming, I'm what you might call obsessed. Have been since I got *[HeroQuest][1]* in the early 90s (and am still its proud owner). I've even been fortunate enough to write for [Geek &amp; Sundry][2] about board games.
 
 More importantly, I've curated a list of places in Lansing where gaming addicts and newcomers alike can go to have some fun.
 
@@ -81,11 +81,11 @@ If you have more questions, are looking for game recommendations, or just want t
 [18]: http://community.extra-life.org/lansing "Extra Life Lansing Guild Homepage"
 [19]: http://www.sparrow.org/childrenscenter "Sparrow Hospital Children's Center Homepage"
 [20]: https://www.msufcu.org/community/events/Sparrow_Toy_Drive "Michigan State University Federal Credit Union Toy Drive Homepage"
-[21]: https://raw.githubusercontent.com/egillespie/guest-writing/master/unodeuce/schuler-game-wall.jpg "Schuler Books Game Wall"
+[21]: https://raw.githubusercontent.com/egillespie/guest-writing/master/unodeuce/2016-08-09-lansing-board-game-scene/schuler-game-wall.jpg "Schuler Books Game Wall"
 [22]: https://twitter.com/eriklgillespie "Erik Gillespie on Twitter"
 [23]: https://www.facebook.com/erik.gillespie.79 "Erik Gillespie on Facebook"
-[24]: https://raw.githubusercontent.com/egillespie/guest-writing/master/unodeuce/adventure-time-cards.jpg "Adventure Time Card Game"
-[25]: https://raw.githubusercontent.com/egillespie/guest-writing/master/unodeuce/carcassonne.jpg "Carcassonne"
-[26]: https://raw.githubusercontent.com/egillespie/guest-writing/master/unodeuce/legendary.jpg "Legendary"
-[27]: https://raw.githubusercontent.com/egillespie/guest-writing/master/unodeuce/scrabble.jpg "Scrabble"
+[24]: https://raw.githubusercontent.com/egillespie/guest-writing/master/unodeuce/2016-08-09-lansing-board-game-scene/adventure-time-cards.jpg "Adventure Time Card Game"
+[25]: https://raw.githubusercontent.com/egillespie/guest-writing/master/unodeuce/2016-08-09-lansing-board-game-scene/carcassonne.jpg "Carcassonne"
+[26]: https://raw.githubusercontent.com/egillespie/guest-writing/master/unodeuce/2016-08-09-lansing-board-game-scene/legendary.jpg "Legendary"
+[27]: https://raw.githubusercontent.com/egillespie/guest-writing/master/unodeuce/2016-08-09-lansing-board-game-scene/scrabble.jpg "Scrabble"
 [28]: https://groups.yahoo.com/neo/groups/MittenCon/info "MittenCon Group on Yahoo"
