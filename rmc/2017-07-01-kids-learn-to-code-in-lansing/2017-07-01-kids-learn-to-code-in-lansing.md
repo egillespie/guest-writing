@@ -44,3 +44,17 @@ The [Capital Area District Library in Haslett](https://www.cadl.org/events/brows
 The [Delta Township Library](http://dtdl.evanced.info/signup) has their own Coding Camp that runs over the summer, too. Your kids will learn Ruby and use it to program in a lot of different ways, including robotics.
 
 You should also check your local library, too. You may be surprised to see how many hands-on activities they offer for your kids!
+
+![](theres-more.png)
+
+## Coding, coding everywhere
+
+This list of three is just the start. There are many other places in Lansing where your kid can learn a bit of code, play with robots, and experiment with technology.
+
+Search around for nonprofits and learning centers that offer coding camps and classes. Check with your child's school to see if they offer classes or extracurricular clubs. Staff may be able to point you to other local places where your kid can take the plunge. There are also tons of ways to learn online, like [Hour of Code](https://hourofcode.com/us) and [Scratch](https://scratch.mit.edu/).
+
+Who knows? Maybe you can learn something new with your little ones, too!
+
+#### Bio
+
+It may be shocking to learn that Erik Gillespie is a dad. He works on a small team that is tossing out the lectures and creating a way for MSU students to learn to code, he writes about Greater Lansing nonprofits and creates new ways to donate to them at [Giving Jar](https://givingjar.org/), and he hosts [Lansing's Tech Demo Nights](https://www.meetup.com/lansing-tech-demos/) where people showcase cool tech (it's fun, you should go).
